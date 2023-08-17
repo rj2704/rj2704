@@ -1,3 +1,5 @@
+![LinkedIn Banner](https://github.com/rj2704/rj2704/assets/72614127/84aa77d8-613c-44ee-8949-5cf479333d4c)
+
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Jigar Rathod's profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
