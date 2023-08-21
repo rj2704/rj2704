@@ -52,7 +52,7 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-## Blog Posts👇:
+## Latest Blog Posts👇:
   
 <!-- BLOGPOSTS:START -->
  - 💫 [Dockerfile best practices for Production &lpar;Beginner&rpar;](https://medium.com/@jigarrathod2704/dockerfile-best-practices-for-production-9e90be47e43b)
