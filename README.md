@@ -14,8 +14,9 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jigarrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jigarrathod27/)](https://www.linkedin.com/in/jigarrathod27/)
-[![Instagram Badge](https://img.shields.io/badge/-jigar.rathod-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jigar.rathod27/)](https://www.instagram.com/jigar.rathod27/)
 [![Medium Badge](https://img.shields.io/badge/-@jigarrathod-1b1b1b?style=flat-square&labelColor=1b1b1b&logo=Medium&link=https://medium.com/@jigarrathod2704)](https://medium.com/@jigarrathod2704)
+[![Twitter Badge](https://img.shields.io/badge/-@jigar2704-blue?style=flat-square&labelColor=blue&logo=Twitter&logoColor=white&link=https://twitter.com/jigar2704)](https://twitter.com/jigar2704)
+[![Instagram Badge](https://img.shields.io/badge/-jigar.rathod-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jigar.rathod27/)](https://www.instagram.com/jigar.rathod27/)
 [![Hashnode Badge](https://img.shields.io/badge/-@jigarrathod-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://jigar2704.hashnode.dev/)](https://jigar2704.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-jigarrathod2704@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jigarrathod2704@gmail.com)](mailto:jigarrathod2704@gmail.com)
 
