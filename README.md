@@ -81,8 +81,10 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 
 ## Support💰
 <p>
-<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
+<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='buymecoffee' /></a>
 </p>
 
 ## GitHub Trophies🏆
 ![](https://github-profile-trophy.vercel.app/?username=rj2704&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rj2704&show_icons=true&locale=en&layout=compact" alt="jigarrathod" /></p>
