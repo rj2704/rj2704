@@ -12,6 +12,7 @@
 
 I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS Certified Solutions Architect - Associate and I have extensive knowledge of several different technologies and tools, including Jenkins, Docker🐳, Kubernetes☸, Terraform, Ansible, AWS, frontend, and many others. Find out more about me & feel free to connect with me here:
 
+## Socials🌐
 
 [![Linkedin Badge](https://img.shields.io/badge/-jigarrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jigarrathod27/)](https://www.linkedin.com/in/jigarrathod27/)
 [![Medium Badge](https://img.shields.io/badge/-@jigarrathod-1b1b1b?style=flat-square&labelColor=1b1b1b&logo=Medium&link=https://medium.com/@jigarrathod2704)](https://medium.com/@jigarrathod2704)
@@ -21,10 +22,9 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 [![Gmail Badge](https://img.shields.io/badge/-jigarrathod2704@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jigarrathod2704@gmail.com)](mailto:jigarrathod2704@gmail.com)
 
 
+## Technologies💻
 
-## Technologies⚡
-
-### Language :
+### Languages :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Libraries & Framework :
+### Libraries & Frameworks :
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -64,7 +64,7 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 <!-- BLOGPOSTS:END -->
 
 
-## My Certifications 🏅
+## My Certifications🏅
 
 <p align="left">
   <a href="https://www.credly.com/earner/earned/badge/2711edd8-46f9-43ce-911c-a15de0da1473">
@@ -84,3 +84,5 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 <a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
 </p>
 
+## GitHub Trophies🏆
+![](https://github-profile-trophy.vercel.app/?username=rj2704&theme=radical&no-frame=false&no-bg=false&margin-w=4)
