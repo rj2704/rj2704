@@ -64,6 +64,21 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 <!-- BLOGPOSTS:END -->
 
 
+## My Certifications 🏅
+
+<p align="left">
+  <a href="https://www.credly.com/earner/earned/badge/2711edd8-46f9-43ce-911c-a15de0da1473">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/earner/earned/badge/dca6c615-7834-4607-b592-ab416e3a17ee">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/earner/earned/badge/1ac8e348-cfef-4c26-bde2-b63e23c59781">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="120" height="120"></a>
+  <a href="https://www.credly.com/earner/earned/badge/b03994c6-32cb-4a7b-831c-d892c46827d6">
+    <img src="https://images.credly.com/size/340x340/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png" width="120" height="120"></a>
+  <a href="https://www.credly.com/earner/earned/badge/979fc7a6-8aab-41d3-98ec-8fa49c01a5f3">
+    <img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="117" height="117"></a>
+</p>
+
 ## Support💰
 <p>
 <a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
