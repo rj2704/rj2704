@@ -58,7 +58,7 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 <!-- BLOGPOSTS:START -->
  - 💫 [Dockerfile best practices for Production &lpar;Beginner&rpar;](https://medium.com/@jigarrathod2704/dockerfile-best-practices-for-production-9e90be47e43b)
  - 💯 [Docker Compose for Beginners: A Comprehensive Guide](https://medium.com/@jigarrathod2704/docker-compose-for-beginners-a-comprehensive-guide-29113e49f7da)
- - 💯 [Docker for DevOps Engineers](https://medium.com/@jigarrathod2704/deploy-a-simple-server-using-aws-terraform-docker-7b71b85a2289)
+ - 🐳 [Docker for DevOps Engineers](https://medium.com/@jigarrathod2704/deploy-a-simple-server-using-aws-terraform-docker-7b71b85a2289)
  - 🚀 [Introduction to Git and GitHub](https://medium.com/@jigarrathod2704/introduction-to-git-and-github-db7ba3037769)
  - 💫 [Amazon Web Services — Introduction](https://medium.com/@jigarrathod2704/amazon-web-services-introduction-2c9b7c1170c)
 <!-- BLOGPOSTS:END -->
