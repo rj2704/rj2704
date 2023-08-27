@@ -12,6 +12,8 @@
 
 I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS Certified Solutions Architect - Associate and I have extensive knowledge of several different technologies and tools, including Jenkins, Docker🐳, Kubernetes☸, Terraform, Ansible, AWS, frontend, and many others. Find out more about me & feel free to connect with me here:
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'>
+
 ## Socials🌐
 
 [![Linkedin Badge](https://img.shields.io/badge/-jigarrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jigarrathod27/)](https://www.linkedin.com/in/jigarrathod27/)
@@ -88,3 +90,4 @@ I am Jigar Rathod. Passionate about DevOps🌐 and Open Source💻. I’m an AWS
 ![](https://github-profile-trophy.vercel.app/?username=rj2704&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rj2704&show_icons=true&locale=en&layout=compact" alt="jigarrathod" /></p>
+
